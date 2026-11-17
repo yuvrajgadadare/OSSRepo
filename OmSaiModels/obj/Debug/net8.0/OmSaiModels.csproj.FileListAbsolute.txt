@@ -1,0 +1,23 @@
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiModels\bin\Debug\net8.0\OmSaiModels.deps.json
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiModels\bin\Debug\net8.0\OmSaiModels.dll
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiModels\bin\Debug\net8.0\OmSaiModels.pdb
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiModels\obj\Debug\net8.0\OmSaiModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiModels\obj\Debug\net8.0\OmSaiModels.AssemblyInfoInputs.cache
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiModels\obj\Debug\net8.0\OmSaiModels.AssemblyInfo.cs
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiModels\obj\Debug\net8.0\OmSaiModels.csproj.CoreCompileInputs.cache
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiModels\obj\Debug\net8.0\OmSaiModels.dll
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiModels\obj\Debug\net8.0\refint\OmSaiModels.dll
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiModels\obj\Debug\net8.0\OmSaiModels.pdb
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiModels\obj\Debug\net8.0\ref\OmSaiModels.dll
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiModels\obj\Debug\net8.0\OmSaiMod.E26A49C5.Up2Date
+F:\YSAAS\oss project\OmSaiModels\bin\Debug\net8.0\OmSaiModels.deps.json
+F:\YSAAS\oss project\OmSaiModels\bin\Debug\net8.0\OmSaiModels.dll
+F:\YSAAS\oss project\OmSaiModels\bin\Debug\net8.0\OmSaiModels.pdb
+F:\YSAAS\oss project\OmSaiModels\obj\Debug\net8.0\OmSaiModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\YSAAS\oss project\OmSaiModels\obj\Debug\net8.0\OmSaiModels.AssemblyInfoInputs.cache
+F:\YSAAS\oss project\OmSaiModels\obj\Debug\net8.0\OmSaiModels.AssemblyInfo.cs
+F:\YSAAS\oss project\OmSaiModels\obj\Debug\net8.0\OmSaiModels.csproj.CoreCompileInputs.cache
+F:\YSAAS\oss project\OmSaiModels\obj\Debug\net8.0\OmSaiModels.dll
+F:\YSAAS\oss project\OmSaiModels\obj\Debug\net8.0\refint\OmSaiModels.dll
+F:\YSAAS\oss project\OmSaiModels\obj\Debug\net8.0\OmSaiModels.pdb
+F:\YSAAS\oss project\OmSaiModels\obj\Debug\net8.0\ref\OmSaiModels.dll

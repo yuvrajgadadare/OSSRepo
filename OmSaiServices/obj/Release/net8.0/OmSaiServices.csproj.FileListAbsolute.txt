@@ -1,0 +1,17 @@
+F:\YSAAS\oss project\OmSaiServices\bin\Release\net8.0\OmSaiServices.deps.json
+F:\YSAAS\oss project\OmSaiServices\bin\Release\net8.0\OmSaiServices.dll
+F:\YSAAS\oss project\OmSaiServices\bin\Release\net8.0\OmSaiServices.pdb
+F:\YSAAS\oss project\OmSaiServices\bin\Release\net8.0\OmSaiEnvironment.dll
+F:\YSAAS\oss project\OmSaiServices\bin\Release\net8.0\OmSaiModels.dll
+F:\YSAAS\oss project\OmSaiServices\bin\Release\net8.0\OmSaiEnvironment.pdb
+F:\YSAAS\oss project\OmSaiServices\bin\Release\net8.0\OmSaiModels.pdb
+F:\YSAAS\oss project\OmSaiServices\obj\Release\net8.0\OmSaiServices.csproj.AssemblyReference.cache
+F:\YSAAS\oss project\OmSaiServices\obj\Release\net8.0\OmSaiServices.GeneratedMSBuildEditorConfig.editorconfig
+F:\YSAAS\oss project\OmSaiServices\obj\Release\net8.0\OmSaiServices.AssemblyInfoInputs.cache
+F:\YSAAS\oss project\OmSaiServices\obj\Release\net8.0\OmSaiServices.AssemblyInfo.cs
+F:\YSAAS\oss project\OmSaiServices\obj\Release\net8.0\OmSaiServices.csproj.CoreCompileInputs.cache
+F:\YSAAS\oss project\OmSaiServices\obj\Release\net8.0\OmSaiSer.D17C7D08.Up2Date
+F:\YSAAS\oss project\OmSaiServices\obj\Release\net8.0\OmSaiServices.dll
+F:\YSAAS\oss project\OmSaiServices\obj\Release\net8.0\refint\OmSaiServices.dll
+F:\YSAAS\oss project\OmSaiServices\obj\Release\net8.0\OmSaiServices.pdb
+F:\YSAAS\oss project\OmSaiServices\obj\Release\net8.0\ref\OmSaiServices.dll

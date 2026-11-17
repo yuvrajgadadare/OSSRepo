@@ -1,0 +1,12 @@
+F:\YSAAS\oss project\OmSaiModels\bin\Release\net8.0\OmSaiModels.deps.json
+F:\YSAAS\oss project\OmSaiModels\bin\Release\net8.0\OmSaiModels.dll
+F:\YSAAS\oss project\OmSaiModels\bin\Release\net8.0\OmSaiModels.pdb
+F:\YSAAS\oss project\OmSaiModels\obj\Release\net8.0\OmSaiModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\YSAAS\oss project\OmSaiModels\obj\Release\net8.0\OmSaiModels.AssemblyInfoInputs.cache
+F:\YSAAS\oss project\OmSaiModels\obj\Release\net8.0\OmSaiModels.AssemblyInfo.cs
+F:\YSAAS\oss project\OmSaiModels\obj\Release\net8.0\OmSaiModels.csproj.CoreCompileInputs.cache
+F:\YSAAS\oss project\OmSaiModels\obj\Release\net8.0\OmSaiModels.dll
+F:\YSAAS\oss project\OmSaiModels\obj\Release\net8.0\refint\OmSaiModels.dll
+F:\YSAAS\oss project\OmSaiModels\obj\Release\net8.0\OmSaiModels.pdb
+F:\YSAAS\oss project\OmSaiModels\obj\Release\net8.0\ref\OmSaiModels.dll
+F:\YSAAS\oss project\OmSaiModels\obj\Release\net8.0\OmSaiMod.E26A49C5.Up2Date

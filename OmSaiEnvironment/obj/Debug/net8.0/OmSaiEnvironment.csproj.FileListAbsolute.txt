@@ -1,0 +1,23 @@
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiEnvironment\bin\Debug\net8.0\OmSaiEnvironment.deps.json
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiEnvironment\bin\Debug\net8.0\OmSaiEnvironment.dll
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiEnvironment\bin\Debug\net8.0\OmSaiEnvironment.pdb
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnvironment.AssemblyInfoInputs.cache
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnvironment.AssemblyInfo.cs
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnvironment.csproj.CoreCompileInputs.cache
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnvironment.dll
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiEnvironment\obj\Debug\net8.0\refint\OmSaiEnvironment.dll
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnvironment.pdb
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiEnvironment\obj\Debug\net8.0\ref\OmSaiEnvironment.dll
+C:\OmSaiServices_v3\OmSaiServices_v3\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnv.F0C2E72C.Up2Date
+F:\YSAAS\oss project\OmSaiEnvironment\bin\Debug\net8.0\OmSaiEnvironment.deps.json
+F:\YSAAS\oss project\OmSaiEnvironment\bin\Debug\net8.0\OmSaiEnvironment.dll
+F:\YSAAS\oss project\OmSaiEnvironment\bin\Debug\net8.0\OmSaiEnvironment.pdb
+F:\YSAAS\oss project\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+F:\YSAAS\oss project\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnvironment.AssemblyInfoInputs.cache
+F:\YSAAS\oss project\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnvironment.AssemblyInfo.cs
+F:\YSAAS\oss project\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnvironment.csproj.CoreCompileInputs.cache
+F:\YSAAS\oss project\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnvironment.dll
+F:\YSAAS\oss project\OmSaiEnvironment\obj\Debug\net8.0\refint\OmSaiEnvironment.dll
+F:\YSAAS\oss project\OmSaiEnvironment\obj\Debug\net8.0\OmSaiEnvironment.pdb
+F:\YSAAS\oss project\OmSaiEnvironment\obj\Debug\net8.0\ref\OmSaiEnvironment.dll
